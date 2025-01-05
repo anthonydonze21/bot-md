@@ -1,0 +1,50 @@
+{
+    "debug": false,
+
+    "guildId": "1308377124578787329",
+    "serverName": "MD SHOP",
+    "urlLogo": "https://cdn.discordapp.com/attachments/1275217242757529711/1325269682319790130/md.jpg?ex=677b2d12&is=6779db92&hm=587165bb1b32b34f985aa14f9f528996180dc5dd6d07ce1c2d1a9a4e986b21c2&",
+    "activeBotActivity": true,
+
+    "channel": {
+        "ticket": "1324128144906518599",
+        "logs": "1325304933569921088"
+    },
+
+    "acessToCommandsAdmin": [
+        {"id": "1089791793748521050", "name": "DEEZZOUNETTE"},
+        {"id": "999466111328333835", "name": "Matheeeeeeeeeo"}
+    ],
+
+    "ticket": {
+        "accessRoles": [
+            {"id": "1308377124578787336", "name": "Owner"},
+            {"id": "1308377124612214794", "name": "Support"}
+        ],
+        "embed": {
+            "author": {"name": "MD SHOP", "iconURL": "https://cdn.discordapp.com/attachments/1275217242757529711/1325269682319790130/md.jpg?ex=677b2d12&is=6779db92&hm=587165bb1b32b34f985aa14f9f528996180dc5dd6d07ce1c2d1a9a4e986b21c2&"},
+            "title": "Tickets",
+            "color": "#ff9524",
+            "thumbnail": true,
+            "description": "Tu as une question ? Une commande à faire ? Un report ?\nN'hésite pas à faire un ticket ! Le ticket vous permettra d'avoir un salon privé entre le staff et vous. Vous pouvez aussi report les bugs, les problèmes qui viennent du discord, par exemple, une publicité provenant des messages privés, etc.\n\n**__Créer un ticket__**\nPour créer un ticket, il te suffit de cliquer sur le bouton juste en dessous\n\n**__Avertissement__**\nTout ticket jugée non-nécessaire ou/et abusive par le staff sera accompagné d'un avertissement."
+        },
+        "messageMenu": "Quel type de ticket souhaitez vous ouvrir ?",
+        "menu": [
+            {
+                "label": "❓ Renseignement",
+                "description": "Prendre informations sur le serveur ou la boutique.",
+                "value": "1324131279947436173"
+            },
+            {
+                "label": "💸 Paiement",
+                "description": "Payer des points Boutique.",
+                "value": "1325306113117257728"
+            },
+            {
+                "label": "Partenariat",
+                "description": "Effectuer un partenariat avec nous",
+                "value": "1325306669982421083"
+            }
+        ]
+    }
+}
